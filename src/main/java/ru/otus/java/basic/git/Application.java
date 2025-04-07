@@ -25,4 +25,12 @@ public class Application {
         b += a;
         System.out.println(a + b);
     }
+
+    public static void homework1() {
+        System.out.println(1);
+        System.out.println(2);
+        System.out.println(3);
+        System.out.println(4);
+        System.out.println(5);
+    }
 }
