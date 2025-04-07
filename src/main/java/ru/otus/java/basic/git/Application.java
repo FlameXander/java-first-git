@@ -17,11 +17,11 @@ public class Application {
     public static void task2() {
         System.out.println("- - -");
         System.out.println();
-        System.out.println("-    -");
+        System.out.println("-   -");
         System.out.println();
         System.out.println("- - -");
-        int a = 2;
-        int b = 2;
+        int a = 3;
+        int b = 3;
         a++;
         b += a;
         System.out.println(a + b);
