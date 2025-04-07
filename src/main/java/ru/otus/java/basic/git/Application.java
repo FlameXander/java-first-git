@@ -13,8 +13,13 @@ public class Application {
     }
 
     public static void task2() {
-        System.out.println("---");
-        System.out.println("- -");
-        System.out.println("---");
+        System.out.println("- - -");
+        System.out.println();
+        System.out.println("-   -");
+        System.out.println();
+        System.out.println("- - -");
+        int a = 1;
+        a++;
+        System.out.println(a);
     }
 }
