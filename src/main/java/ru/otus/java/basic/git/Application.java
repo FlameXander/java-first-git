@@ -7,13 +7,10 @@ public class Application {
     }
 
     public static void doSomething() {
-        System.out.println("---");
-        System.out.println("Q");
+        System.out.println(1);
         System.out.println(2);
         System.out.println(3);
-        System.out.println("A");
-        System.out.println("B");
-        System.out.println("---");
+        System.out.println(5);
     }
 
     public static void task2() {
